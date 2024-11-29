@@ -1,11 +1,7 @@
 <h2>Hey 👋</h2>
-I'm Thiago Bustamante
 <h5>Languages</h5>
 <li>Spanish(Native Language)</li>
 <li>English</li>
-
-<h5>Pronouns</h5>
-[He, Him]
 
 <h3></h3>
 <i>Currently:</i> Universidad Antonio José Camacho.<br>
